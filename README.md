@@ -1,4 +1,6 @@
 ![Profile Image](https://github.com/jackmheller/jackmheller.github.io/blob/main/Professional%20Headshot2%20(2).jpg?raw=true){:height="20%" width="20%"}
+[Here's my LinkedIn!](https://www.linkedin.com/in/jack-heller/)
+
 
 # Jack Heller's Github Page
 
